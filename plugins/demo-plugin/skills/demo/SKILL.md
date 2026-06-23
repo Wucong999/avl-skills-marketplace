@@ -1,3 +1,7 @@
+﻿---
+description: Clean up rough text into clearer Markdown while preserving meaning and avoiding invented facts.
+disable-model-invocation: true
+---
 # Text Cleaner Demo Skill
 
 一个开源的 AVL Skills 测试包示例，用于测试平台的 ZIP 上传、解析和审核流程。  
@@ -62,3 +66,4 @@
 ## 开源协议
 
 本示例使用 MIT License。
+
