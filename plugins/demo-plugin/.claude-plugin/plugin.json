@@ -1,0 +1,8 @@
+{
+  "name" : "demo-plugin",
+  "description" : "测试",
+  "version" : "1.0.0",
+  "author" : {
+    "name" : "AVL 管理员"
+  }
+}
