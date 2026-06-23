@@ -1,4 +1,4 @@
-﻿---
+---
 description: Clean up rough text into clearer Markdown while preserving meaning and avoiding invented facts.
 disable-model-invocation: true
 ---
